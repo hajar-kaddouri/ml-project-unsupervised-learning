@@ -1,10 +1,10 @@
 # machine_learning_project-unsupervised-learning
 ## Structure
-Introduction
-EDA
-Preprocessing
-hierarchical clustering,
-Conclusion
+- Introduction
+- EDA
+- Preprocessing
+- hierarchical clustering,
+- Conclusion
 
 ## Introduction
 - The aim of the study : is to understand the patterns of a wholesale store by implementing Preprocessing,the clustering methods and PCA.
